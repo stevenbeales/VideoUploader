@@ -1,0 +1,10 @@
+sftp RCDATA "c:\delphiprojects\sftp.bat"
+compress RCDATA "c:\delphiprojects\compress.bat"
+videocompressor RCDATA "c:\delphiprojects\videocompressor.exe"
+winscp RCDATA "c:\delphiprojects\winSCP.exe"
+winscpcom RCDATA "c:\delphiprojects\winSCP.com"
+key RCDATA "c:\delphiprojects\key.ppk"
+script RCDATA "c:\delphiprojects\script.txt"
+cleanup RCDATA "c:\delphiprojects\cleanup.bat"
+
+
